@@ -1,0 +1,203 @@
+img {
+    width: 100%;
+}
+
+.logo-img {
+    width: 150px;
+}
+
+.logo-text>p {
+    font-size: 2em;
+    font-style: italic;
+    font-family: "Ruslan Display", sans-serif;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #B49397;
+    padding-right: 10px;
+    color: #57423F;
+}
+
+body {
+    margin: 0;
+}
+
+#B49397 ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+li {
+    background-color: #57423F;
+    color: #BFA6A2;
+    padding: 10px;
+    margin: 7px;
+}
+
+.item-1 {
+    background-image: url(img/pizza1.jpg);
+}
+
+.item-2 {
+    background-image: url(img/pizza2.jpg);
+}
+
+.item-3 {
+    background-image: url(img/pizza3.jpg);
+}
+
+.item-4 {
+    background-image: url(img/pizza4.jpg);
+}
+
+.item-5 {
+    background-image: url(img/pizza5.jpg);
+}
+
+.item-6 {
+    background-image: url(img/pizza6.jpg);
+}
+
+.item-7 {
+    background-image: url(img/pizza7.jpg);
+}
+
+.item-8 {
+    background-image: url(img/pizza8.jpg);
+}
+
+.item-9 {
+    background-image: url(img/pizza9.jpg);
+}
+
+.pizza {
+    width: 165px;
+    height: 128px;
+    color: #b8927e;
+    text-align: center;
+    padding-top: 10px;
+    margin: 15px;
+    box-sizing: border-box;
+}
+
+.pizza-wrap {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+aside {
+    background-color: #BFA6A2;
+    padding: 20px;
+    width: 200px;
+    flex-grow: 2;
+}
+
+main {
+    flex-grow: 10;
+    padding: 20px;
+    background-color: #BFA6A2;
+    width: 400px;
+}
+
+.content {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.circle {
+    background-color: #57423F;
+    color: #BFA6A2;
+    border-radius: 50%;
+    padding: 15px;
+    margin: 0 15px;
+}
+
+.row {
+    display: flex;
+    align-items: center;
+}
+
+.big-img,
+.big-text {
+    width: 400px;
+    flex-grow: 1;
+    padding: 15px 30px;
+}
+
+.our-principles {
+    background-color: #cbb3af;
+    padding: 10px;
+}
+
+.big-img>img {
+    border-radius: 30px;
+}
+
+h2 {
+    font-family: "Didact Gothic", sans-serif;
+}
+
+p {
+    font-family: "Cuprum", sans-serif;
+}
+
+.option {
+    background-image: url(img/1.jpg);
+    height: 400px;
+    background-size: cover;
+    background-position: 50% 50%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.opt-1,
+.opt-2,
+.opt-3,
+.opt-4 {
+    background-color: rgb(195, 190, 184);
+    color: #847572;
+    padding: 20px;
+    margin: 20px;
+}
+.opt-1{
+    align-self: center;
+}
+.opt-2{
+    align-self: flex-start;
+}
+.opt-3{
+    align-self: flex-end;
+}
+.opt-4{
+    align-self: center;
+}
+footer{
+    background-color: #3c2e2c;
+    color: aliceblue;
+    padding: 20px;
+    font-size: larger;
+}
+.socio{
+    font-size: 1.5em;
+    text-decoration: none;
+    color: aliceblue;
+    padding: 15px;
+}
+.face:hover{
+color: rgb(0, 110, 255);
+}
+.inst:hover{
+    color: rgb(227, 68, 0);
+}
+.tt:hover{
+    color: black;
+}
+.viber:hover{
+    color: blueviolet;
+}
+.snap:hover{
+    color: gold;
+}
