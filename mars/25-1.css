@@ -1,0 +1,50 @@
+img{
+    width: 100%;
+}
+header{
+    background-image: url(fon.png);
+}
+.logo-1{
+    font-family: "Poiret One", sans-serif;
+    font-size: 7rem;
+    color: rgb(119, 44, 17);
+    line-height: 0.8;
+    margin-bottom: 0;
+    margin-top: 50px;
+}
+.logo-2{
+    font-family: "Cormorant Garamond", serif;
+    font-size: 1.8rem;
+    color: rgb(159, 59, 22);
+}
+h2{
+    font-family: "Cormorant Garamond", serif; 
+}
+p{
+    font-family: "Exo 2", sans-serif;
+}
+ body{
+    background-color: black;
+    color: rgb(254, 173, 108);
+ }
+
+ .card-header{
+    background-color: #f5a454;
+    color: black;
+ }
+ .card{
+    background-color: #442302;
+    color: white;
+    height: 100%;
+    box-shadow: 0px 0px 10px 8px #442302;
+    margin-bottom: 30px;
+ }
+ footer{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: rgb(42, 0, 0);
+    font-size: 20px;
+ }
+ .socio{
+    color: white;
+ }
