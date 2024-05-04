@@ -1,0 +1,55 @@
+.navbar{
+background: linear-gradient(to right, rgb(119, 163, 252), rgb(222, 222, 222), rgb(124, 86, 249));
+}
+button{
+    background-color: rgb(0, 76, 255);
+    color: white;
+}
+.fon-1{
+    background: linear-gradient(to bottom, rgb(86, 86, 255), rgb(217, 217, 217), white);
+    padding-top: 80px;
+    padding-bottom: 70px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.women{
+    width: 80%;
+}
+img{
+    width: 100%;
+}
+.my-card-1 img{
+    width: 30%;
+}
+.my-card-2 img{
+    width: 40%;
+}
+.my-card-2{
+    text-align: center;
+    padding: 15px;
+    margin: 15px;
+    border: 1px solid #867fd3;
+}
+.ll{
+    font-size: 24px;
+    font-weight: 600;
+}
+.fon-2{
+    border-radius: 20px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background: linear-gradient(to right bottom, rgb(158, 138, 164), rgb(196, 168, 225), rgb(64, 12, 104));
+}
+.list{
+    list-style-image: url(list-img.png);
+}
+.fon-3{
+    background: linear-gradient(to right, rgb(26, 33, 246), rgb(88, 101, 249), rgb(255, 255, 255)); 
+    border-radius: 20px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
